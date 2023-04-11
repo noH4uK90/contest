@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWebApi", "NewWebApi\NewWebApi.csproj", "{BC4E732B-9277-4C2C-AFEC-D78509F7B1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{6FA988D5-359E-4FDB-8598-DFA251C074F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakePassService", "MakePassService\MakePassService.csproj", "{1C14E424-445B-4A38-90D6-984B9EE5FBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4E732B-9277-4C2C-AFEC-D78509F7B1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E732B-9277-4C2C-AFEC-D78509F7B1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E732B-9277-4C2C-AFEC-D78509F7B1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E732B-9277-4C2C-AFEC-D78509F7B1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA988D5-359E-4FDB-8598-DFA251C074F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA988D5-359E-4FDB-8598-DFA251C074F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA988D5-359E-4FDB-8598-DFA251C074F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA988D5-359E-4FDB-8598-DFA251C074F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C14E424-445B-4A38-90D6-984B9EE5FBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C14E424-445B-4A38-90D6-984B9EE5FBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C14E424-445B-4A38-90D6-984B9EE5FBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C14E424-445B-4A38-90D6-984B9EE5FBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

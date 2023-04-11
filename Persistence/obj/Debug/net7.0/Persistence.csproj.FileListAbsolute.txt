@@ -1,0 +1,14 @@
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+E:\projects\contest\NewWebApi\NewWebApi\Persistence\obj\Debug\net7.0\ref\Persistence.dll
